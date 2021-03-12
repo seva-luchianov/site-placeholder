@@ -1,0 +1,23 @@
+{
+    "name": "site-placeholder",
+    "version": "1.0.0",
+    "description": "Basic placeholder for websites hosted through a reverse proxy",
+    "main": "placeholder.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/seva-luchianov/site-placeholder.git"
+    },
+    "author": "Seva Luchianov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/seva-luchianov/site-placeholder/issues"
+    },
+    "homepage": "https://github.com/seva-luchianov/site-placeholder#readme",
+    "dependencies": {
+        "command-line-args": "^5.1.1",
+        "express": "^4.17.1"
+    }
+}
